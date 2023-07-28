@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Md Parwez</h1>
+![image](https://github.com/MdParwez/MdParwez/assets/73132560/d06732a5-7436-4c5d-8e49-ca87087c3d56)<h1 align="center">Hi 👋, I'm Md Parwez</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=betp1234parwez@gmail.com&label=Profile%20views&color=0e75b6&style=flat" alt="alienx1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MdParwez&label=Profile%20views&color=0e75b6&style=flat" alt="alienx1" /> </p>
 
 - 🌱  I’m skilled at Data Structures and Algorithms.
   
