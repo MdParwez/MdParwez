@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MdParwez&label=Profile%20views&color=0e75b6&style=flat" alt="alienx1" /> </p>
 
-- 🌱  I’m skilled at Data Structures and Algorithms.
+- 🌱  I’m skilled at web development, Java Programming and Data Structures and Algorithms.
   
-- 👯  I’m looking to collaborate on projects related to Data Science & Web development.
+- 👯  I’m looking to collaborate on projects related to Data Science & Web development .
 
 - 💬  Ask me about java, Data Structures and Algorithms, JavaScript, HTML, CSS etc.
 
