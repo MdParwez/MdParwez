@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mdparwez.github.io/portfolio/](https://mdparwez.github.io/portfolio/)
 
-- 💬 Ask me about **React.js, Node.js, JavaScript,Java,HTML,CSS**
+- 💬 Ask me about **React.js, Node.js, JavaScript,Java, OOPs,HTML,CSS**
 
 - 📫 How to reach me **betp1234parwez@gmail.com**
 
