@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdparwez&label=Profile%20views&color=0e75b6&style=flat" alt="mdparwez" /> </p>
 
-- 🌱 I’m currently learning **React.js,Node.js,Express.js**
+## About me
+## ✨  I'm Experienced in Coding Frontend Development, Backend Development , Java Development, Software Development
+
 
 - 👨‍💻 All of my projects are available at [https://mdparwez.github.io/portfolio/](https://mdparwez.github.io/portfolio/)
 
