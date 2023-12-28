@@ -7,7 +7,7 @@
 ## ✨  I'm Experienced in Coding Frontend Development, Backend Development , Java Development, Software Development
 
 
-- 👨‍💻 All of my projects are available at [https://mdparwez.github.io/portfolio/](https://portfoliowebsitereactjs.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfoliowebsitereactjs.vercel.app/](https://portfoliowebsitereactjs.vercel.app/)
 
 - 💬 Ask me about **React.js, Node.js, JavaScript,Java, OOPs,HTML,CSS**
 
