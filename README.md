@@ -2,11 +2,10 @@
 <h3 align="center">Software Development Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdparwez&label=Profile%20views&color=0e75b6&style=flat" alt="mdparwez" /> </p>
-
 ## About me
 ## ✨  I'm Experienced in Coding Frontend Development, Backend Development , Java Development, Software Development
 
-
+ # Motivation: The Magic U r Looking for is in the Hard Work that u r Avoiding
 - 👨‍💻 All of my projects are available at [https://portfoliowebsitereactjs.vercel.app/](https://portfoliowebsitereactjs.vercel.app/)
 
 - 💬 Ask me about **React.js, Node.js, JavaScript,Java, OOPs,HTML,CSS**
