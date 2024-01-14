@@ -3,12 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdparwez&label=Profile%20views&color=0e75b6&style=flat" alt="mdparwez" /> </p>
  <h1> About me <h1>
-  <h2>✨  I'm Experienced in Coding Frontend Development, Backend Development , Java Development, Software Development </h2>
+✨  I'm Experienced in Coding Frontend Development, Backend Development , Java Development, Software Development </h2>
+ <h2> Motivation: The Magic U r Looking for is in the Hard Work that u r Avoiding </h2><br>
+ 👨‍💻 All of my projects are available at [https://mdparwezmyportfolio.vercel.app/](https://mdparwezmyportfolio.vercel.app/)<br>
 
-     ### Motivation: The Magic U r Looking for is in the Hard Work that u r Avoiding
-- 👨‍💻 All of my projects are available at [https://mdparwezmyportfolio.vercel.app/](https://mdparwezmyportfolio.vercel.app/)
-
-- 💬 Ask me about **React.js, Node.js, JavaScript,Java, OOPs,HTML,CSS**
+- 💬 Ask me about **React.js, Node.js, JavaScript,Java, OOPs,HTML,CSS**<br>
 
 - 📫 How to reach me **betp1234parwez@gmail.com**
 <br>
