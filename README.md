@@ -5,7 +5,7 @@
  <h1> About me <h1>
   <h2>✨  I'm Experienced in Coding Frontend Development, Backend Development , Java Development, Software Development </h2>
 
- ### Motivation: The Magic U r Looking for is in the Hard Work that u r Avoiding
+     ### Motivation: The Magic U r Looking for is in the Hard Work that u r Avoiding
 - 👨‍💻 All of my projects are available at [https://mdparwezmyportfolio.vercel.app/](https://mdparwezmyportfolio.vercel.app/)
 
 - 💬 Ask me about **React.js, Node.js, JavaScript,Java, OOPs,HTML,CSS**
