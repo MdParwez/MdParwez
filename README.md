@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdparwez&label=Profile%20views&color=0e75b6&style=flat" alt="mdparwez" /> </p>
  <h1> About me <h1>
 ✨  I'm Experienced in Coding Frontend Development, Backend Development , Java Development, Software Development </h2>
- <h2> Motivation: The Magic U r Looking for is in the Hard Work that u r Avoiding </h2><br>
+ <br>
  👨‍💻 All of my projects are available at (https://mdparwezmyportfolio.vercel.app/)<br>
 
 - 💬 Ask me about **React.js, Node.js, JavaScript,Java, OOPs,HTML,CSS**<br>
