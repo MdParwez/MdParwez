@@ -34,6 +34,11 @@
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,androidstudio,docker,vscode,idea,md,ps)](https://github.com/keshavop)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdparwez&show_icons=true&locale=en&layout=compact" alt="mdparwez" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdparwez&show_icons=true&locale=en" alt="mdparwez" /></p>
+
+
 <hr>
 
 
