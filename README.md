@@ -26,13 +26,13 @@
 ![I Code in](https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,js)
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,angular,figma)](https://github.com/keshavop)
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,angular,figma)](https://github.com/MdParwez)
 
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase,aws,gcp)](https://github.com/keshavop)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase,aws,gcp)](https://github.com/MdParwez)
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,androidstudio,docker,vscode,idea,md,ps)](https://github.com/keshavop)
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,androidstudio,docker,vscode,idea,md,ps)](https://github.com/MdParwez)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdparwez&show_icons=true&locale=en&layout=compact" alt="mdparwez" /></p>
 
