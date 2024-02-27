@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Parwez</h1>
-<h3 align="center">Software Development Engineer</h3>
+<h3 align="center">Aspring Software Development Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdparwez&label=Profile%20views&color=0e75b6&style=flat" alt="mdparwez" /> </p>
  <h1> About me <h1>
@@ -7,7 +7,7 @@
  <br>
  👨‍💻 All of my projects are available at https://mdparwezmyportfolio.vercel.app/ <br>
 
-- 💬 Ask me about **React.js, Node.js, JavaScript,Java, OOPs,HTML,CSS**<br>
+- 💬 Ask me about **React.js, Node.js, JavaScript,Java, OOPS,HTML,CSS**<br>
 
 - 📫 How to reach me **betp1234parwez@gmail.com**
 <br>
