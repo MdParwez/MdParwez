@@ -38,7 +38,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdparwez&show_icons=true&locale=en" alt="mdparwez" /></p>
 
-
 <hr>
 
 
