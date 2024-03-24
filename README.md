@@ -13,8 +13,8 @@
 <br>
 
 ## 🚀 Connect with me
-[![Github](https://skillicons.dev/icons?i=github)](https://github.com/MdParwez)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/md-parwez-3a44871b7)
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/MdParwez)
 
 ## 👨‍💻Coding Profile
 <a href="https://leetcode.com/imparwez/" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F6.svg?alt=media&token=2e74ad55-57f2-40aa-adff-c46ea7a8b4c5" alt="leetcode" height="45" width="45" /></a>
