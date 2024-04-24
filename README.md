@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdparwez&label=Profile%20views&color=0e75b6&style=flat" alt="mdparwez" /> </p>
  <h1> About me <h1>
-✨  I'm Experienced in Coding Frontend Development, Backend Development , Java Development , Software Development </h2>
+✨  I'm Experienced in Coding Software Development,  Frontend Development, Backend Development , Java Development   </h2>
  <br>
  👨‍💻 All of my projects are available at https://mdparwezmyportfolio.vercel.app/ <br>
 
