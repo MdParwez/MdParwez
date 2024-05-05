@@ -7,7 +7,7 @@
  <br>
  👨‍💻 All of my projects are available at https://mdparwezmyportfolio.vercel.app/ <br>
 
-- 💬 Ask me about **React.js, Node.js, JavaScript, Java, MySql, MongoDB,OOPS,HTML,CSS,  Tailwind CSS**<br>
+- 💬 Ask me about **React.js, Node.js, JavaScript, Java, MySql, MongoDB,OOPS,HTML,CSS, Tailwind CSS**<br>
 
 - 📫 How to reach me **betp1234parwez@gmail.com**
 <br>
