@@ -5,7 +5,7 @@
  <h1> About me <h1>
 ✨  I'm Experienced in Coding Software Development,  Frontend Development, Backend Development , Java Development   </h2>
  <br>
- 👨‍💻 All of my projects are available at https://mdparwezmyportfolio.vercel.app/ <br>
+ 👨‍💻 All of my projects are available at https://mdparwez-portfolio.vercel.app/ <br>
 
 - 💬 Ask me about **React.js, Node.js, JavaScript, Java, MySql, MongoDB,OOPS,HTML,CSS, Tailwind CSS**<br>
 
