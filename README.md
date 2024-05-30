@@ -1,16 +1,27 @@
 <h1 align="center">Hi 👋, I'm Md Parwez</h1>
 <h3 align="center">Software Engineer</h3>
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdparwez&label=Profile%20views&color=0e75b6&style=flat" alt="mdparwez" /> </p>
- <h1> About me <h1>
-✨  I'm Experienced in Coding Software Development,  Frontend Development, Backend Development , Java Development   </h2>
- <br>
- 👨‍💻 All of my projects are available at https://mdparwez-portfolio.vercel.app/ <br>
+ :woman_technologist: About Me
 
-- 💬 Ask me about **React.js, Node.js, JavaScript, Java, MySql, MongoDB,OOPS,HTML,CSS, Tailwind CSS**<br>
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 📫 How to reach me **betp1234parwez@gmail.com**
-<br>
+---
+
+- 👨‍💻 All of my projects are available at [My Portfolio](https://mdparwez-portfolio.vercel.app/)
+- 💬 Ask me about **Java, React, Node, JavaScript, MySQL, MongoDB, OOPS, HTML, CSS, Tailwind CSS, git, AWS**
+- :telescope: contributing to both frontend and backend development for web applications.
+- :seedling: Exploring Data Science(AI & ML) as a extra Interest Based Specialization.
+- :zap: Constantly, I solve coding problems on Leetcode and GeeksforGeeks platforms.
+- :mailbox: How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/md-parwez-3a44871b7)
+
+---
+
 
 ## 🚀 Connect with me
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/md-parwez-3a44871b7)
@@ -33,9 +44,13 @@
 
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,androidstudio,docker,vscode,idea,md,ps)](https://github.com/MdParwez)
+---
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MdParwez&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdParwez&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+Feel free to connect and explore my work!
 <hr>
 
 
