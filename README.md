@@ -19,7 +19,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :telescope: contributing to both frontend and backend development for web applications.
 - :seedling: Exploring Data Science(AI & ML) as a extra Interest Based Specialization.
 - :zap: Constantly, I solve coding problems on Leetcode and GeeksforGeeks platforms.
-- :mailbox: How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-parwez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-parwez-3a44871b7/)
+- :mailbox: How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-parwez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-parwez-3a44871b7/) or betp1234parwez@gmail.com
 
 ---
 
