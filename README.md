@@ -43,6 +43,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,androidstudio,docker,vscode,idea,md,ps)](https://github.com/MdParwez)
+
+### Data Science
+[![Data Science](https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,keras,numpy,pandas,matplotlib,seaborn,scikit-learn)](https://github.com/MdParwez)
+
 ---
 
 ### :fire: My Stats :
