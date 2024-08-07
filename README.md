@@ -13,7 +13,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://mdparwez-portfolio.vercel.app/)
-- 💬 Ask me about **Java, React, Node, JavaScript, MySQL, MongoDB, OOPS, HTML, CSS, Tailwind CSS, git, AWS**
+- 💬 Ask me about **Java, React.js, Node.js, JavaScript, MySQL, MongoDB, OOPS, HTML, CSS, Tailwind CSS, git, AWS**
 - :telescope: contributing to both frontend and backend development for web applications.
 - :seedling: Exploring Data Science(AI & ML) as a extra Interest Based Specialization.
 - :zap: Constantly, I solve coding problems on Leetcode and GeeksforGeeks platforms.
