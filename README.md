@@ -19,7 +19,7 @@ I am a dedicated Full Stack Developer <img src="https://media.giphy.com/media/WU
 - 💬 **Ask me about:** Java, React.js, Node.js, JavaScript, MySQL, MongoDB, OOPS, HTML, CSS, Tailwind CSS, Git, AWS
 - 🌱 **Exploring:** Data Science (AI & ML) as an additional specialization.
 - 🚀 **Coding Practice:** Regularly solving problems on LeetCode and GeeksforGeeks.
-- 📫 **Reach me:** [![LinkedIn Badge](https://img.shields.io/badge/-parwez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-parwez-3a44871b7/) or via email.
+- 📫 **Reach me:** [![LinkedIn Badge](https://img.shields.io/badge/-parwez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-parwez-3a44871b7/) or via email betp1234parwez@gmail.com
 
 ---
 
