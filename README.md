@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Md Parwez</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Coding Enthusiast</h3>
+<h3 align="center">Software Engineer | Full Stack Developer | Coding Enthusiast| Data Science (AI & ML)</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mdparwez&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
