@@ -16,7 +16,7 @@
 I am a dedicated Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India with a keen interest in coding and software engineering.
 
 - 🌐 **Portfolio:** [My Portfolio](https://mdparwezportfolio-website.vercel.app/)
-- 💬 **Ask me about:** Java, React.js, Node.js, JavaScript, MySQL, MongoDB, OOPS, HTML, CSS, Tailwind CSS, Git, AWS
+- 💬 **Ask me about:** Java, React.js, Node.js, JavaScript, Springboot,MySQL, MongoDB, OOPS, HTML, CSS, Tailwind CSS, Git, AWS, Machine Learning, Data Science Technologies
 - 🌱 **Exploring:** Data Science (AI & ML) as an additional specialization.
 - 🚀 **Coding Practice:** Regularly solving problems on LeetCode and GeeksforGeeks.
 - 📫 **Reach me:** [![LinkedIn Badge](https://img.shields.io/badge/-parwez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-parwez-3a44871b7/) or via email betp1234parwez@gmail.com
