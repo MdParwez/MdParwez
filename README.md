@@ -3,23 +3,25 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Md Parwez</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Coding Enthusiast| Data Science (AI & ML)</h3>
+<h3 align="center">Software Engineer | Full Stack Developer | AI & ML Enthusiast</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mdparwez&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdparwez&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a dedicated Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India with a keen interest in coding and software engineering.
+I am a results-driven Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, passionate about creating scalable and efficient software solutions.
 
 - 🌐 **Portfolio:** [My Portfolio](https://mdparwezportfolio-website.vercel.app/)
-- 💬 **Ask me about:** Java, React.js, Node.js, JavaScript, Springboot,MySQL, MongoDB, OOPS, HTML, CSS, Tailwind CSS, Git, AWS, Machine Learning, Data Science Technologies
-- 🌱 **Exploring:** Data Science (AI & ML) as an additional specialization.
-- 🚀 **Coding Practice:** Regularly solving problems on LeetCode and GeeksforGeeks.
-- 📫 **Reach me:** [![LinkedIn Badge](https://img.shields.io/badge/-parwez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-parwez-3a44871b7/) or via email betp1234parwez@gmail.com
+- 💬 **Ask me about:** Java, React.js, Node.js, Spring Boot, JavaScript, MySQL, MongoDB, OOP, HTML, CSS, Tailwind CSS, Git, AWS, Machine Learning, Data Science Technologies
+- 🌱 **Currently exploring:** Data Science (AI & ML)
+- 🚀 **Coding:** Actively solving problems on LeetCode and GeeksforGeeks.
+- 📫 **Connect with me:** 
+  [![LinkedIn Badge](https://img.shields.io/badge/-parwez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-parwez-3a44871b7/) 
+  | Email: betp1234parwez@gmail.com
 
 ---
 
