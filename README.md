@@ -41,7 +41,7 @@ I am a results-driven Full Stack Developer <img src="https://media.giphy.com/med
 
 ---
 
-### 📊 LeetCode Achievements:
+### 📊 LeetCode Profile:
 
   <a href="https://leetcode.com/u/imparwez/" target="_blank">
     <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="LeetCode Badge 1" height="170" width="170" />
