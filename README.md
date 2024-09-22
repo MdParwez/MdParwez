@@ -25,7 +25,7 @@ I am a results-driven Full Stack Developer <img src="https://media.giphy.com/med
 
 ---
 
-### 🚀 Connect with Me
+### 🚀 Connect with Me:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/md-parwez-3a44871b7)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/MdParwez)
