@@ -32,7 +32,7 @@ I am a results-driven Full Stack Developer <img src="https://media.giphy.com/med
 
 ---
 
-### 👨‍💻 Coding Profiles
+### 👨‍💻 Coding Profiles:
 
 <div>
   <a href="https://leetcode.com/imparwez/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F6.svg?alt=media&token=2e74ad55-57f2-40aa-adff-c46ea7a8b4c5" alt="LeetCode" height="45" width="45"/></a>
