@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Md Parwez  (Software Developer with Growth MindSet)</h1>
+<h1 align="center">Hi 👋, I'm Md Parwez  (Software Engineer with Growth MindSet)</h1>
 <h3 align="center">Software Engineer | Full Stack Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
