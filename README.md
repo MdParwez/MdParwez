@@ -11,7 +11,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me:
 
 I am a results-driven Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, passionate about creating scalable and efficient software solutions.
 
@@ -25,14 +25,14 @@ I am a results-driven Full Stack Developer <img src="https://media.giphy.com/med
 
 ---
 
-### 🚀 Connect with Me
+### 🚀 Connect with Me:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/md-parwez-3a44871b7)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/MdParwez)
 
 ---
 
-### 👨‍💻 Coding Profiles
+### 👨‍💻 Coding Profiles:
 
 <div>
   <a href="https://leetcode.com/imparwez/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F6.svg?alt=media&token=2e74ad55-57f2-40aa-adff-c46ea7a8b4c5" alt="LeetCode" height="45" width="45"/></a>
@@ -41,7 +41,7 @@ I am a results-driven Full Stack Developer <img src="https://media.giphy.com/med
 
 ---
 
-### 📊 LeetCode Profile
+### 📊 LeetCode Profile:
 
   <a href="https://leetcode.com/u/imparwez/" target="_blank">
     <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="LeetCode Badge 1" height="170" width="170" />
