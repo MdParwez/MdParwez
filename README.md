@@ -39,8 +39,6 @@ I am a results-driven Full Stack Developer <img src="https://media.giphy.com/med
   <a href="https://auth.geeksforgeeks.org/user/imparwez/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F5.svg?alt=media&token=dcf0a6d1-d72b-4716-b119-5db5e169480c" alt="GeeksforGeeks" height="45" width="45"/></a>
 </div>
 
----
-
 ### 📊 LeetCode Profile:
 
   <a href="https://leetcode.com/u/imparwez/" target="_blank">
@@ -56,6 +54,7 @@ I am a results-driven Full Stack Developer <img src="https://media.giphy.com/med
 </div>
 
 ---
+
 
 ### 🛠️ Skills
 
