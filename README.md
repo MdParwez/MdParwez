@@ -56,7 +56,7 @@ I am a results-driven Full Stack Developer <img src="https://media.giphy.com/med
 ---
 
 
-### 🛠️ Skills
+### 🛠️ Skills:
 
 #### Programming Languages
 
