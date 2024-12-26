@@ -87,13 +87,19 @@ I am a results-driven Full Stack Developer <img src="https://media.giphy.com/med
 
 ### ⚡ My GitHub Stats
 
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=MdParwez&theme=dark&background=000000" alt="GitHub Streak"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdParwez&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
-</p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <!-- GitHub Streak Stats -->
+  <div>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=MdParwez&theme=dark&background=000000" alt="GitHub Streak" />
+  </div>
+
+  <!-- Top Languages Stats -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdParwez&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  </div>
+</div>
+
 
 ---
 
