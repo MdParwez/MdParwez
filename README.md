@@ -41,17 +41,22 @@ I am a results-driven Full Stack Developer <img src="https://media.giphy.com/med
 
 ### 📊 LeetCode Profile:
 
-  <a href="https://leetcode.com/u/imparwez/" target="_blank">
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="LeetCode Badge 1" height="170" width="170" />
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="LeetCode Badge 2" height="170" width="170" />
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="LeetCode Badge 3" height="170" width="170" />
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="LeetCode Badge 4" height="170" width="170" />
-  </a>
+  
+  <!-- Badges Section -->
+  <div style="display: flex; flex-direction: column; gap: 15px;">
+    <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="365 Days Badge" height="120" width="120" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="500 Days Badge" height="120" width="120" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" alt="2024 Badge" height="120" width="120" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" alt="Duplicate 2024 Badge" height="120" width="120" />
+  </div>
 </div>
+ <div style="display: flex; align-items: center; gap: 20px;">
+  <!-- LeetCode Stats Card -->
+  <div>
+    <img src="https://leetcard.jacoblin.cool/imparwez?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
+  </div>
+  
 
-<div>
-  <img src="https://leetcard.jacoblin.cool/imparwez?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
-</div>
 
 ---
 
