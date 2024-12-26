@@ -17,7 +17,8 @@ I am a results-driven Full Stack Developer <img src="https://media.giphy.com/med
 
 - 🌐 **Portfolio:** [My Portfolio](https://mdparwezportfolio-website.vercel.app/)
 - 💬 **Ask me about:** Java, React.js, Node.js, Spring Boot, JavaScript, MySQL, MongoDB, OOP, HTML, CSS, Tailwind CSS, Git, AWS, Machine Learning, Data Science Technologies
-- 🚀 **Coding:** Actively solving problems on LeetCode and Working on the Latest Tech Stack Projects
+- 🚀 **Coding:** Actively solving problems on LeetCode and Working on the Latest Tech Stack Projects.
+- 🌟 **Motivation:** Build, Break, and Refine — Turning ideas into code, challenges into solutions, and failures into learning opportunities.  
 - 📫 **Connect with me:** 
   [![LinkedIn Badge](https://img.shields.io/badge/-parwez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-parwez-3a44871b7/) 
   | Email: betp1234parwez@gmail.com
