@@ -44,8 +44,9 @@ I am a results-driven Full Stack Developer <img src="https://media.giphy.com/med
   
   <!-- Badges Section -->
   <div style="display: flex; flex-direction: column; gap: 15px;">
+     <img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="500 Days Badge" height="120" width="120" />
     <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="365 Days Badge" height="120" width="120" />
-    <img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="500 Days Badge" height="120" width="120" />
+    //<img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="500 Days Badge" height="120" width="120" />
     <img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" alt="2024 Badge" height="120" width="120" />
     
   </div>
