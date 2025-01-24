@@ -42,19 +42,21 @@ I am a results-driven Full Stack Developer <img src="https://media.giphy.com/med
 ### 📊 LeetCode Profile:
 
   
-  <!-- Badges Section -->
-  <div style="display: flex; flex-direction: column; gap: 15px;">
-    <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="365 Days Badge" height="120" width="120" />
-    <img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="500 Days Badge" height="120" width="120" />
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" alt="2024 Badge" height="120" width="120" />
-    
-  </div>
-</div>
- <div style="display: flex; align-items: center; gap: 20px;">
+
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
   <!-- LeetCode Stats Card -->
-  <div>
+  <div style="flex-shrink: 0;">
     <img src="https://leetcard.jacoblin.cool/imparwez?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
   </div>
+  
+  <!-- Badges Section -->
+  <div style="display: flex; flex-direction: row; gap: 15px;">
+    <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="365 Days Badge" height="80" width="80" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="500 Days Badge" height="80" width="80" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024.gif" alt="2024 Badge" height="80" width="80" />
+  </div>
+</div>
+
   
 
 
