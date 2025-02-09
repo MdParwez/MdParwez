@@ -99,7 +99,7 @@ I am a results-driven Full Stack Developer <img src="https://media.giphy.com/med
 
 ---
 
-### 💡 What I’m Working On
+### 💡 What I’m Working On:
 
 - Contributing to both frontend and backend development for web applications.
 - Building projects using the Java, JavaScript, Node.js, React, Springboot, mySql, mongoDB and exploring new technologies.
