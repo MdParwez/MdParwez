@@ -23,7 +23,7 @@ I am a **results-driven Full Stack Developer** from India with a passion for bui
   Java, JavaScript, React.js, Node.js, Spring Boot, MySQL, MongoDB, REST APIs, HTML, CSS, Tailwind CSS, Git, GitHub, AWS, Object-Oriented Programming (OOP), Agile Development
 
 - 🧠 **AI & Data Science Skills:**  
-  Python, Machine Learning, Data Science, NumPy, Pandas, Scikit-Learn, Data Visualization, Model Deployment
+  Python, Machine Learning, Artificial Intelligence, Generative AI, NumPy, Pandas, Scikit-Learn, tensorflow, Data Visualization, Model Deployment
 
 - 🚀 **What I’m Up To:**  
   Constantly enhancing my problem-solving skills by solving challenges on LeetCode and building real-world applications using the latest tech stacks.
