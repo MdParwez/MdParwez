@@ -13,11 +13,21 @@
 
 ### 👨‍💻 About Me:
 
-I am a results-driven Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, passionate about creating scalable and efficient software solutions.
+---
 
-- 🌐 **Portfolio:** [My Portfolio](https://mdparwezportfolio-website.vercel.app/)
-- 💬 **Ask me about:** Java, JavaScript, React.js, Node.js, Spring Boot,  MySQL, MongoDB, OOP, HTML, CSS, Tailwind CSS, Git, AWS, Machine Learning, Data Science Technologies
-- 🚀 **Coding:** Actively solving problems on LeetCode and Working on the Latest Tech Stack Projects.  
+I am a **results-driven Full Stack Developer** from India with a passion for building scalable, efficient, and user-centric software solutions. I bring a solid foundation in both frontend and backend technologies, complemented by hands-on experience in AI and data science domains.
+
+- 🌐 **Portfolio:** [Visit My Portfolio](https://mdparwezportfolio-website.vercel.app/)
+
+- 💻 **Software Development Skills:**  
+  Java, JavaScript, React.js, Node.js, Spring Boot, MySQL, MongoDB, REST APIs, HTML, CSS, Tailwind CSS, Git, GitHub, AWS, Object-Oriented Programming (OOP), Agile Development
+
+- 🧠 **AI & Data Science Skills:**  
+  Python, Machine Learning, Data Science, NumPy, Pandas, Scikit-Learn, Data Visualization, Model Deployment
+
+- 🚀 **What I’m Up To:**  
+  Constantly enhancing my problem-solving skills by solving challenges on LeetCode and building real-world applications using the latest tech stacks.
+
 - 📫 **Connect with me:** 
   [![LinkedIn Badge](https://img.shields.io/badge/-parwez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-parwez-3a44871b7/) 
   | Email: betp1234parwez@gmail.com
