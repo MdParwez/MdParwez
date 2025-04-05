@@ -13,8 +13,6 @@
 
 ### 👨‍💻 About Me:
 
----
-
 I am a **results-driven Full Stack Developer** from India with a passion for building scalable, efficient, and user-centric software solutions. I bring a solid foundation in both frontend and backend technologies, complemented by hands-on experience in AI and data science domains.
 
 - 🌐 **Portfolio:** [Visit My Portfolio](https://mdparwezportfolio-website.vercel.app/)
