@@ -10,21 +10,24 @@
 </p>
 
 ---
-
 ### 👨‍💻 About Me:
 
-I am a **results-driven Full Stack Developer** from India with a passion for building scalable, efficient, and user-centric software solutions. I bring a solid foundation in both frontend and backend technologies, complemented by hands-on experience in AI and data science domains.
+I’m a **Full Stack Developer** from India with a strong background in building scalable and user-focused web applications. With a solid command over both frontend and backend technologies, I also bring practical experience in AI and machine learning, gained through hands-on projects and continuous learning.
 
-- 🌐 **Portfolio:** [Visit My Portfolio](https://mdparwezportfolio-website.vercel.app/)
+- 🎓 **Education:**  
+  Bachelor of Technology (B.Tech) in Computer Science and Engineering — Specialization in Artificial Intelligence & Machine Learning
+
+- 🌐 **Portfolio:**  
+  [Visit My Portfolio](https://mdparwezportfolio-website.vercel.app/)
 
 - 💻 **Software Development Skills:**  
   Java, JavaScript, React.js, Node.js, Spring Boot, MySQL, MongoDB, REST APIs, HTML, CSS, Tailwind CSS, Git, GitHub, AWS, Object-Oriented Programming (OOP), Agile Development
 
 - 🧠 **AI & Data Science Skills:**  
-  Python, Machine Learning, Artificial Intelligence, Generative AI, NumPy, Pandas, Scikit-Learn, tensorflow, Data Visualization, Model Deployment
+  Python, Machine Learning, Deep Learning, Generative AI, NumPy, Pandas, Scikit-Learn, TensorFlow, Data Visualization, Model Deployment
 
-- 🚀 **What I’m Up To:**  
-  Constantly enhancing my problem-solving skills by solving challenges on LeetCode and building real-world applications using the latest tech stacks.
+- 🚀 **Current Focus:**  
+  I’m actively improving my problem-solving abilities through platforms like LeetCode and consistently working on real-world projects to deepen my understanding of modern tech stacks and development best practices.
 
 - 📫 **Connect with me:** 
   [![LinkedIn Badge](https://img.shields.io/badge/-parwez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-parwez-3a44871b7/) 
