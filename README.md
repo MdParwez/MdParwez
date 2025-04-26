@@ -15,7 +15,7 @@
 I’m a **Full Stack Developer** from India with a strong background in building scalable and user-focused web applications. With a solid command over both frontend and backend technologies, I also bring practical experience in AI and machine learning, gained through hands-on projects and continuous learning.
 
 - 🎓 **Education:**  
-  Bachelor of Technology (B.Tech) in Computer Science and Engineering — Specialization in Artificial Intelligence & Machine Learning
+  ##### Bachelor of Technology (B.Tech) in Computer Science and Engineering — Specialization in Artificial Intelligence & Machine Learning
 
 - 🌐 **Portfolio:**  
   [Visit My Portfolio](https://mdparwezportfolio-website.vercel.app/)
