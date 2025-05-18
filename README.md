@@ -81,13 +81,15 @@ I’m a **Full Stack Developer** from India with a strong background in building
 
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase,aws,gcp)
 
+#### Data Science:
+
+![Data Science](https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,keras,numpy,pandas,matplotlib,seaborn,scikit-learn,ai)
+
 #### Tools:
 
 ![Tools](https://skillicons.dev/icons?i=git,github,linux,androidstudio,docker,vscode,idea,md,ps)
 
-#### Data Science:
 
-![Data Science](https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,keras,numpy,pandas,matplotlib,seaborn,scikit-learn)
 
 ---
 
