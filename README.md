@@ -21,8 +21,11 @@ Currently contributing to the **IndiGo AI Chatbot**, leveraging **Python**, **Fa
 - 🎓 **Education:**  
   **B.Tech in Computer Science and Engineering** — Specialization in *Artificial Intelligence & Machine Learning*
 
-- 🌐 **Portfolio:**  
-  [🔗 Visit My Portfolio](https://mdparwezportfolio-website.vercel.app/)
+-🌐 **Portfolio & Work:**
+
+[![AI ML Portfolio](https://img.shields.io/badge/AI%20ML%20Portfolio-Visit-blue?style=for-the-badge)](https://mdparwezaimlenginnerportfolio.lovable.app)
+[![Complete Portfolio](https://img.shields.io/badge/Complete%20Portfolio-Visit-green?style=for-the-badge)](https://mdparwezportfolio-website.vercel.app/)
+
 
 - 🧠 **Current Focus:**  
   Enhancing AI-driven backend systems, mastering prompt engineering, Langchain, Langraph, MCP Server, Multi Agent Systems and Agentic AI Chatbots, and building efficient cloud-native architectures using **Azure** and **FastAPI**.
