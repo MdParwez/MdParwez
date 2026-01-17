@@ -8,7 +8,7 @@ Hi 👋, I'm <b>Md Parwez</b><br/>
 </h2>
 
 <h3 align="center">
-AI Engineer • GenAI & LLM Specialist • Backend Software Engineer
+AI ML Engineer • GenAI & LLM Specialist • Backend Software Engineer
 </h3>
 
 <p align="center">
@@ -19,7 +19,7 @@ AI Engineer • GenAI & LLM Specialist • Backend Software Engineer
 
 ## 👨‍💻 About Me
 
-I’m an **AI Engineer** focused on building **production-grade Generative AI systems** — from LLM-powered chatbots to retrieval-augmented and agentic workflows — backed by strong **software engineering fundamentals**.
+I’m an **AI ML Engineer** focused on building **production-grade Generative AI systems** — from LLM-powered chatbots to retrieval-augmented and agentic workflows — backed by strong **software engineering fundamentals**.
 
 Currently, I contribute to the **IndiGo AI Chatbot**, where I design and deploy **LLM-driven conversational systems** using **Python**, **FastAPI**, **Azure OpenAI**, **Redis**, and **RAG architectures** to support real-time, high-scale customer interactions.
 
