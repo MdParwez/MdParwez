@@ -4,7 +4,7 @@
 
 <h2 align="center">
 Hi 👋, I'm <b>Md Parwez</b><br/>
-<span style="font-size: 0.9em;">AI ML Engineer building production-ready intelligent systems 🚀</span>
+<span style="font-size: 0.9em;">AI ML Engineer With Growth Mindset 🚀</span>
 </h2>
 
 <h3 align="center">
