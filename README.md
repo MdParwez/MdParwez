@@ -26,7 +26,7 @@ Currently, I contribute to the **IndiGo AI Chatbot**, where I design and deploy 
 💡 My work sits at the intersection of **AI system design** and **backend engineering** — ensuring AI solutions are **accurate, scalable, observable, and reliable**.
 
 - 🎓 **Education**  
-  **B.Tech — Computer Science & Engineering**  
+  **B.Tech — Computer Science & Engineering -  Specialization: *Artificial Intelligence & Machine Learning***  
   Specialization: *Artificial Intelligence & Machine Learning*
 
 - 🌐 **Portfolio & Work**
