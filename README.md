@@ -33,6 +33,7 @@ Currently, I contribute to the **IndiGo AI Chatbot**, where I design and deploy 
   
   [![AI & ML Portfolio](https://img.shields.io/badge/AI%20%26%20ML%20Portfolio-Visit-blue?style=for-the-badge)](https://mdparwezaimlenginnerportfolio.lovable.app)
   [![Software Portfolio](https://img.shields.io/badge/Software%20Portfolio-Visit-green?style=for-the-badge)](https://mdparwezportfolio-website.vercel.app/)
+  [![AI Engineering Blog](https://img.shields.io/badge/Next--Token%20Lab-AI%20Blog-purple?style=for-the-badge)](https://next-token-lab-by-md-parwez-ai-engineer.vercel.app/)
 
 - 🧠 **Current Focus**
   - Designing and optimizing **LLM-based applications**
